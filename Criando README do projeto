@@ -1,0 +1,20 @@
+# Projeto LEGO EV3 - Robô Equilibrista
+
+## Integrantes do grupo
+- Nome 1 – Larissa Campanelli - 2201386  
+- Nome 2 – Gabriel Barboza - 2101289  
+- Nome 3 –   
+- Nome 4 – 
+- Nome 5 – 
+- Nome 6 – 
+- Nome 7 – 
+- Nome 8 – 
+- Nome 9 – 
+
+## Sobre o Projeto
+
+Este projeto tem como objetivo desenvolver um robô equilibrista utilizando a plataforma LEGO EV3. O robô foi programado em Python e projetado para manter-se em equilíbrio sobre duas rodas, com o auxílio de um sensor giroscópio que identifica a inclinação do corpo e envia comandos aos motores para corrigir a posição.
+
+Durante o desenvolvimento, exploramos conceitos importantes de robótica, como controle de estabilidade, leitura de sensores em tempo real e tomada de decisão automática. O maior desafio foi ajustar os parâmetros de equilíbrio para que o robô reagisse com precisão e não perdesse a estabilidade.
+
+O projeto representa uma aplicação prática dos conhecimentos adquiridos em sala de aula, permitindo uma vivência real das etapas de construção, programação e testes de um sistema robótico.
